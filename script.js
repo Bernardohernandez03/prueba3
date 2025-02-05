@@ -10,7 +10,7 @@ function agregar() {
     listaUL.appendChild(elementoLista)
 
     suma += Number(inputValue)
-
+//prueba
 }
 function suma() {
     
